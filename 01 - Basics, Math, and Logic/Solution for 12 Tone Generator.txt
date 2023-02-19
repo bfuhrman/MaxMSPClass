@@ -1,0 +1,1 @@
+[counter] is sending a bang to (clear) when it hits the max flag. This is effectively leaving a residual value in [urn]. 
