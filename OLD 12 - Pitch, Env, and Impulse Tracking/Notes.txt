@@ -1,0 +1,10 @@
+From the Package Manager in Max, make sure that the MuBu and zsa.descriptors packages are downloaded to your system. 
+
+Go to https://github.com/v7b1 and download 64bit versions of [fiddle~], [sigmund~], and [bonk~]. 
+
+Unzip them and drop the Max x64 External and Max Helpfile files into the same directory you're working in.
+
+Direct links are
+[fiddle~] - https://github.com/v7b1/fiddle_64bit_version/releases
+[sigmund~] - https://github.com/v7b1/sigmund_64bit-version/releases
+[bonk~] - https://github.com/v7b1/bonk_64bit-version/releases
