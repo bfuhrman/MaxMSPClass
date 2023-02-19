@@ -1,0 +1,54 @@
+{
+	"pattrstorage" : 	{
+		"name" : "test[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"BP_pattrtest::ONE_control_1" : [ 0 ],
+					"BP_pattrtest::ONE_control_2" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"BP_pattrtest::ONE_control_1" : [ 127 ],
+					"BP_pattrtest::ONE_control_2" : [ 127 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"BP_pattrtest::ONE_control_1" : [ 0 ],
+					"BP_pattrtest::ONE_control_2" : [ 127 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"BP_pattrtest::ONE_control_1" : [ 127 ],
+					"BP_pattrtest::ONE_control_2" : [ 0 ]
+				}
+
+			}
+,
+			"24" : 			{
+				"id" : 24,
+				"data" : 				{
+					"BP_pattrtest::ONE_control_1" : [  ],
+					"BP_pattrtest::ONE_control_2" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
